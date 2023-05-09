@@ -5,7 +5,7 @@
 - email:1784929126@qq.com
 - email:liweijun0302@gmail.com
 
-# Resume
+# Introduction
 This programme can realize automatically login Genshin Impact when you have many account.
 
 
