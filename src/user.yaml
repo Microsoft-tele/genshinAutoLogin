@@ -1,0 +1,40 @@
+# User accounts config file
+configName: Genshin
+User:
+- id: 1
+  intro: 大号
+  phoneNumber: 18723450987
+  password: xjfgeyfgwe75485845
+
+- id: 2
+  intro: 小号
+  phoneNumber: 110110110110
+  password: ghrjgherghreg
+
+- id: 3
+  intro: 随便什么账号
+  phoneNumber: 112112112112
+  password: grjgieojrr
+
+- id: 4
+  intro: Please don't choose this, this just a test data
+  phoneNumber: 110
+  password: 123lis
+  
+# If you want to add user information, you can add a item behind id 4.
+
+bottomIconPath: C:\\Users\\Nahida\\Desktop\\git\\autologin\\btmIcon.png
+genshinIconPath: C:\\Users\\Nahida\\Desktop\\git\\autologin\\genshin.png
+genshinStartPath: E:\\yuanshen\\Genshin Impact\\launcher.exe
+startPngPath: C:\\Users\\Nahida\\Desktop\\git\\autologin\\start.png
+pythonScript: C:\Users\Nahida\Desktop\git\java_genshin_autologin\untitled\src\getPosition.py
+
+# You need to revise youself file path
+
+phoneNumberPosition:
+  x: 684
+  y: 381
+
+admitPosition:
+  x: 673
+  y: 630
